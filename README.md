@@ -75,7 +75,7 @@ This is the robot used in this project:
 
 This is the robot with the lane detection system active:
 
-![Robot with Lane](path/to/robot-with-lane-image.jpg)
+![Robot with Lane](img2.PNG)
 
 *The robot actively following a white line on the ground, demonstrating the real-time line detection and navigation capabilities.*
 
