@@ -115,17 +115,13 @@ This is the logic diagram of robot control:
 
 For comprehensive technical details, hardware specifications, and implementation guide:
 
-**[📄 Download Detailed Robot Documentation (PDF)](path/to/detailed-robot-documentation.pdf)**
+**[📄 Download Detailed Robot Documentation (PDF)](rapport_opencv.pdf)**
 
 *This document contains complete technical specifications, assembly instructions, calibration procedures, and advanced configuration options.*
 
 ## 📞 Support & Contact
 
-For all information, questions, help, or collaboration opportunities, feel free to contact me:
-
-### Contact Information
-- **📧 Email**: [your-email@example.com](mailto:your-email@example.com)
-- **💼 LinkedIn**: [Connect with me on LinkedIn](https://linkedin.com/in/your-profile)
+For all information, questions, help, or collaboration opportunities, feel free to contact me.
 
 ### Additional Support
 - Open an issue on GitHub for technical problems
