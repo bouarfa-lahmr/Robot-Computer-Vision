@@ -1,4 +1,4 @@
-# 🤖 Autonomous Mobile Robot Using Hough Transform
+# 🤖 Autonomous Mobile Robot Using Computer Vision
 
 An autonomous mobile robot system that uses computer vision and the Hough Transform algorithm for line detection and path following. This project demonstrates real-time image processing, autonomous navigation, and embedded systems integration using Raspberry Pi and OpenCV.
 
@@ -67,7 +67,7 @@ sudo apt install python3-picamera2
 
 This is the robot used in this project:
 
-![Robot Hardware](path/to/robot-hardware-image.jpg)
+![Robot Hardware](robot.PNG)
 
 *The autonomous mobile robot featuring Raspberry Pi 4, PiCamera V2, L298N motor driver, and 3D-printed chassis with four-wheel drive system.*
 
@@ -85,7 +85,7 @@ This is the robot with the lane detection system active:
 
 This is the real-time path processing of the robot and decision making interface:
 
-![Real-time Processing](path/to/real-time-processing-image.jpg)
+![Real-time Processing](img.PNG)
 
 *Screenshot of the live processing interface showing the original camera feed, processed binary image, detected Hough lines, and current robot decision (FORWARD/LEFT/RIGHT/STOP).*
 
@@ -105,7 +105,7 @@ This is a video of the robot demonstration:
 
 This is the logic diagram of robot control:
 
-![Control Flowchart](path/to/control-flowchart-image.jpg)
+![Control Flowchart](logigramme.PNG)
 
 *Detailed flowchart showing the complete decision-making process from image capture through line detection to motor control commands.*
 
